@@ -516,7 +516,6 @@
 
 - [Alpine Node Video Multitool](https://github.com/realeyes-media/alpine-node-video-multitool) - Contribute to realeyes-media/alpine-node-video-multitool development by creating an account on GitHub.
 - [Bento4](https://www.bento4.com) - A comprehensive toolkit and C++ library providing command-line tools and APIs for MP4 and DASH media format creation, manipulation, and packaging.
-- [Deckboy](https://github.com/Utopian-Academy/Deckboy) - Native, open-source media playback & show control app with SRT streaming, recording and Blackmagic SDI output.
 - [CDN Transcode Sample (GitHub)](https://github.com/OpenVisualCloud/CDN-Transcode-Sample) - Media transcoding is a key function for live video broadcasting, streaming, and video on demand use cases in a CDN network.
 - [Dlb Mp4base](https://github.com/DolbyLaboratories/dlb_mp4base) - The Dolby MP4 streaming muxer (dlb_mp4base) is a software implementation of a muxer of fragmented or unfragmented ISO base media file format (mp4).
 - [Dlb Mp4demux](https://github.com/DolbyLaboratories/dlb_mp4demux) - Dolby Laboratories' official MP4 streaming demuxer (dlb_mp4demux) - a reference implementation for demuxing fragmented or unfragmented ISO base media files.
@@ -1695,6 +1694,7 @@
 
 ### Desktop Players
 
+- [Deckboy](https://github.com/Utopian-Academy/Deckboy) - Native, open-source media playback & show control app with SRT streaming, recording and Blackmagic SDI output.
 - [HWAcceleratedVP9Player](https://github.com/rinsuki/HWAcceleratedVP9Player) - Hardware Accelerated VP9 Player in macOS 11.0 Big Sur beta 4+.
 - [KSPlayer](https://github.com/kingslay/KSPlayer) - Swift media player framework for iOS/macOS/tvOS/visionOS on AVPlayer+FFmpeg with HLG, HDR10, HDR10+, Dolby Vision, Dolby Atmos, and text/image subtitle support.
 - [mpv.net (GitHub)](https://github.com/mpvnet-player/mpv.net) - Modern mpv-based Windows media player with a customizable GUI, themes, and extension support built on the mpv engine.
